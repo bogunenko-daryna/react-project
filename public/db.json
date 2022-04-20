@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-s-krevetkoj-v-losose.300x150.jpg",
+      "name": "Philadelphia in salmon with shrimp",
+      "types": [0],
+      "include": "Rice, shrimp, salmon cheese, cucumber",
+      "price": 11,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-losose-i-tuntse.300x150.jpg",
+      "name": "Philadelphia in tuna",
+      "types": [0, 1],
+      "include": "Rice, tuna, cheese, cucumber",
+      "price": 8,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-krevetke.1800x1800w.jpg",
+      "name": "Philadelphia in shrimp",
+      "include": "Rice, shrimp, cheese, cucumber",
+      "types": [0, 1],
+      "price": 10,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-lososem.300x150.jpg",
+      "name": "California with salmon",
+      "types": [0, 1],
+      "include": "Rice, salmon, cheese, avocado, caviar",
+      "price": 6,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-tuntsom.300x150.jpg",
+      "name": "California with tuna",
+      "types": [0, 1],
+      "include": "Rice, tuna, cheese, avocado, caviar",
+      "price": 8,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-ugrem.300x150.jpg",
+      "name": "California with eel",
+      "types": [0, 1],
+      "include": "Rice, eel, cheese, avocado, caviar",
+      "price": 9.5,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-ugre.600x800.jpg",
+      "name": "Philadelphia in the eel",
+      "types": [0, 1],
+      "include": "Rice, eel, cheese, cucumber",
+      "price": 7,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-losose.600x800.jpg",
+      "name": "Philadelphia in salmon",
+      "types": [0, 1],
+      "include": "Rice, salmon, cheese, cucumber",
+      "price": 7,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-krevetkoj.300x150.jpg",
+      "name": "California with shrimp",
+      "types": [0, 1],
+      "include": "Rice, shrimp, cheese, avocado, caviar",
+      "price": 10,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-krevetkoj.300x150.jpg",
+      "name": "Temaki",
+      "types": [0, 1],
+      "include": "Rice, shrimp, cheese, avocado, caviar",
+      "price": 6,
+      "category": 0,
+      "rating": 5
+    }
+  ]
+}
