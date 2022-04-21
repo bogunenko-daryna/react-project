@@ -10,7 +10,9 @@ function ProductBlock({ imageUrl, name, include, types, price }) {
   };
   return (
     <div className="product-block">
-      <img className="product-block__image" src={imageUrl} alt="" />
+      <div className="product-block__img">
+        <img className="product-block__image" src={imageUrl} alt="" />
+      </div>
       <h4 className="product-block__title">{name}</h4>
       <div className="product-block__body">
         <p>{include}</p>

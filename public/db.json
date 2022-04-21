@@ -4,7 +4,7 @@
       "id": 0,
       "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-s-krevetkoj-v-losose.300x150.jpg",
       "name": "Philadelphia in salmon with shrimp",
-      "types": [0],
+      "types": [0, 1],
       "include": "Rice, shrimp, salmon cheese, cucumber",
       "price": 11,
       "category": 0,
