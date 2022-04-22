@@ -8,7 +8,7 @@ function Home({ items }) {
       <div className="content__top">
         <Categories
           onClick={(name) => console.log(name)}
-          items={["Temaki", "Vegetarian", "Rolls", "Baked"]}
+          items={["Temaki", "Sets", "Rolls", "Maki"]}
         />
         <SortPopup items={["popular", "price", "alphabet"]} />
       </div>

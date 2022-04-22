@@ -2,8 +2,8 @@ import React from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
 
-function ProductBlock({ imageUrl, name, include, types, price }) {
-  const typeName = ["240g", "310g"];
+function ProductBlock({ imageUrl, name, include, types, price, weight }) {
+  const typeName = weight;
   const [activeType, setActiveType] = React.useState(types[1]);
   const onSelectType = (index) => {
     setActiveType(index);
